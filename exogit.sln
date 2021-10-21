@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exogit", "exogit\exogit.csproj", "{FC7C66DF-968A-4349-9FC9-4A52C869CBD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC7C66DF-968A-4349-9FC9-4A52C869CBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7C66DF-968A-4349-9FC9-4A52C869CBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7C66DF-968A-4349-9FC9-4A52C869CBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7C66DF-968A-4349-9FC9-4A52C869CBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14116A6E-97AF-484B-BE74-AC55D71E9F00}
+	EndGlobalSection
+EndGlobal
